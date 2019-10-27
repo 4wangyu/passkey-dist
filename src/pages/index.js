@@ -19,7 +19,7 @@ class MyLink extends React.Component {
   render() {
     return (
       <div className="section">
-        <h3><a href="https://webapp.diawi.com/install/ZdFqjp">passkey</a></h3>
+        <h3><a href="https://i.diawi.com/AKM9ME">passkey</a></h3>
       </div>
     );
   }
