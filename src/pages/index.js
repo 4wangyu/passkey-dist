@@ -21,7 +21,7 @@ class MyLink extends React.Component {
       <div className="section">
         <h3>
           <a href="itms-services://?action=download-manifest&url=https://passkey.greets.world/manifest.plist">
-            Install Passkey
+            Install passkey!
           </a>
         </h3>
       </div>
