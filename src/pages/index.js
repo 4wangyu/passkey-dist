@@ -20,7 +20,7 @@ class MyLink extends React.Component {
     return (
       <div className="section">
         <h3>
-          <a href="itms-services://?action=download-manifest&url=/manifest.plist">
+          <a href="itms-services://?action=download-manifest&url=https://passkey.greets.world/manifest.plist">
             Install Passkey
           </a>
         </h3>
